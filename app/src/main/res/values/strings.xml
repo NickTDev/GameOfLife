@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GameOfLife</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="clear">Clear</string>
+    <string name="alive_color">Alive Cell Color:</string>
+    <string name="dead_color">Dead Cell Color:</string>
+    <string name="white_color">White</string>
+    <string name="yellow_color">Yellow</string>
+    <string name="purple_color">Purple</string>
+    <string name="red_color">Red</string>
+    <string name="green_color">Green</string>
+    <string name="blue_color">Blue</string>
+    <string name="save">Save Grid</string>
+    <string name="load">Load Grid</string>
+    <string name="clone">Clone To New</string>
+</resources>
